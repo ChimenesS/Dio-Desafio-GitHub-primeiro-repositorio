@@ -2,4 +2,4 @@
 Repositório criado para Desafios Deprojetos
 
 ## Links Úteis
-[Sintaxe Básica Markdow] (https://www.markdownguide.org/)
+[Sintaxe Básica Markdown] (https://www.markdownguide.org/)
